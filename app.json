@@ -1,0 +1,22 @@
+{
+  "id": "a56efa60-8408-4e3f-bea8-6418600665d3",
+  "name": "Wipfli Custom Schema",
+  "publisher": "Wipfli, LLP.",
+  "brief": "A Dynamics Business Central Extension from Wipfli",
+  "description": "Wipfli Custom Schema extension contains custom table extension",
+  "version": "22.0.0.0",
+  "logo": "WipfliLogo-Blue.png",
+  "platform": "22.0.0.0",
+  "application": "22.0.0.0",    
+  "resourceExposurePolicy": {"allowDebugging": true, "allowDownloadingSource": true, "includeSourceInSymbolFile": true},  
+  "idRanges": [
+    {
+      "from": 51000,
+      "to": 51099
+    }
+  ],  
+  "features": [
+      "TranslationFile"
+  ],
+  "target":  "Cloud"
+}
